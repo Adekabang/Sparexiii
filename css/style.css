@@ -11922,6 +11922,7 @@ h5,
   background-position: top center;
 }
 
+
 @media (max-width: 991.98px) {
   .hero-wrap {
     background-position: top center !important;
@@ -12198,7 +12199,7 @@ h5,
   -webkit-animation: pulse 2s infinite;
   animation: pulse 2s infinite;
   margin: 0 auto;
-  margin-left: 30px;
+  margin-left: 42px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -12461,7 +12462,7 @@ h5,
 
 .ftco-game-schedule .owl-carousel .owl-stage-outer {
   padding-top: 0;
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   position: relative;
 }
 

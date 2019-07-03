@@ -354,10 +354,10 @@
  			seconds = "0" + seconds;
  		}
 
- 		$("#days").html(days + "<span>Days</span>");
- 		$("#hours").html(hours + "<span>Hours</span>");
- 		$("#minutes").html(minutes + "<span>Minutes</span>");
- 		$("#seconds").html(seconds + "<span>Seconds</span>");
+ 		$("#days").html(days + "<span>Hari</span>");
+ 		$("#hours").html(hours + "<span>Jam</span>");
+ 		$("#minutes").html(minutes + "<span>Menit</span>");
+ 		$("#seconds").html(seconds + "<span>Detik</span>");
 
  	}
 
